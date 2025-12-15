@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-12-15 19:21">
+  <shop>
+    <offers>
+      <offer id="adlums_7d">
+        <youlaCategoryId>15</youlaCategoryId>
+        <youlaSubcategoryId>1511</youlaSubcategoryId>
+        <address>Москва</address>
+        <price>1200</price>
+        <phone>79010780238</phone>
+        <managerName>Анна</managerName>
+        <programmnoe_obespechenie_tip>9361</programmnoe_obespechenie_tip>
+        <name>ADLums: автопостинг в Telegram — доступ 7 дней</name>
+        <picture>https://raw.githubusercontent.com/kirsi0965-dotcom/SoftSaaS/main/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20ADLums%20%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BD%D0%B0%207%20%D0%B4%D0%BD%D0%B5%D0%B9.png</picture>
+        <picture>https://raw.githubusercontent.com/kirsi0965-dotcom/SoftSaaS/main/%D0%90%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82.jpg</picture>
+        <picture>https://raw.githubusercontent.com/kirsi0965-dotcom/SoftSaaS/main/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B.jpg</picture>
+        <picture>https://raw.githubusercontent.com/kirsi0965-dotcom/SoftSaaS/main/%D0%9B%D0%9A.jpg</picture>
+        <picture>https://raw.githubusercontent.com/kirsi0965-dotcom/SoftSaaS/main/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%202.jpg</picture>
+        <picture>https://raw.githubusercontent.com/kirsi0965-dotcom/SoftSaaS/main/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.jpg</picture>
+        <description><![CDATA[ADLums — автопостинг в Telegram-группы без прав администратора.
+
+✅ Публикация от лица участника (там, где это разрешено).
+🕒 Планирование постов, очереди, мультиаккаунт.
+🛡 Базовый антиспам (в рамках правил Telegram).
+
+Тариф «Доступ 7 дней»:
+— доступ к личному кабинету на 7 дней;
+— подключение нескольких Telegram-аккаунтов (в рамках лимитов);
+— консультации и сопровождение на весь срок.
+
+⚖️ Важно: сервис не обходит ограничения Telegram и работает только там, где участникам разрешено писать. Ответственность за соблюдение правил сообществ и законодательства — на пользователе.]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
